@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService_Test", "WcfService_Test\WcfService_Test.csproj", "{F79F2248-E940-4B62-B635-C575F520A20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHost", "WcfHost\WcfHost.csproj", "{1FDD4F64-D071-4B3B-AC29-6EFD88CC2F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79F2248-E940-4B62-B635-C575F520A20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79F2248-E940-4B62-B635-C575F520A20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79F2248-E940-4B62-B635-C575F520A20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79F2248-E940-4B62-B635-C575F520A20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDD4F64-D071-4B3B-AC29-6EFD88CC2F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDD4F64-D071-4B3B-AC29-6EFD88CC2F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDD4F64-D071-4B3B-AC29-6EFD88CC2F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDD4F64-D071-4B3B-AC29-6EFD88CC2F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E61C9BC-FFB0-4133-A2B6-FEDA48CA3F1B}
+	EndGlobalSection
+EndGlobal
